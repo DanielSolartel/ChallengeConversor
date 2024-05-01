@@ -110,7 +110,6 @@ public class Principal {
                         cantidad = scanner.nextDouble();
                         System.out.println("El total son: " + df.format(cantidad * Rate) + " Dolares");
                         break;
-                        
                 }
             }
         }
