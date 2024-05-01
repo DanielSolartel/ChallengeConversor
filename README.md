@@ -19,5 +19,13 @@ mediante un while, un switch y un if logramos darle una respuesta a la solitud h
 la cantidad de la divisa que se desea convertir, esta ultima la multiplicaremos por el valor que nos da el API, todo esto junto con 
 la oportuna actualizacion de variables para cada caso que se presenta en el menú de inicio.
 
+<h2>Programa en ejecución: </h2>
+<p align="center">
+   <img src="https://github.com/DanielSolartel/ChallengeConversor/assets/136408815/6c402178-90da-442a-9ab2-7408286d3da8">
+   </p>
+<p align="center">
+   <img src="https://github.com/DanielSolartel/ChallengeConversor/assets/136408815/2cad57b4-a34e-41d4-8130-6d16cb265904">
+   </p>   
+
 Proyecto realizado por Daniel Alejandro Solarte Lopez.
 
